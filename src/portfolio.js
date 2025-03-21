@@ -54,8 +54,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
- 
+    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -129,9 +128,7 @@ const educationInfo = {
       subHeader: "Master of Science in COMPUTER SCIENCE AND ENGINEERING",
       duration: "September 2016 - July 2019",
       desc: "Participated in the research  and published 3 papers.",
-      descBullets: [
-       
-      ]
+      descBullets: []
     },
     {
       schoolName: "Adama science and technology university",
@@ -139,9 +136,7 @@ const educationInfo = {
       subHeader: "Bachler of Science in SOFTWARE ENGINEERING ",
       duration: "September 2011 - July 2015",
       desc: " ",
-      descBullets: [
-       
-      ]
+      descBullets: []
     },
     {
       schoolName: " Ariel university",
@@ -149,10 +144,8 @@ const educationInfo = {
       subHeader: "CERTIFICATE IN CYBER SECURITY ANALYST ",
       duration: "march 2018 - november 2018",
       desc: "",
-      descBullets: [
-       
-      ]
-    },
+      descBullets: []
+    }
   ]
 };
 
